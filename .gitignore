@@ -1,9 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,python,java,linux,jetbrains+all,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,python,java,linux,jetbrains+all,visualstudiocode
 
-<<<<<<< HEAD
-# Created by https://www.toptal.com/developers/gitignore/api/eclipse
-# Edit at https://www.toptal.com/developers/gitignore?templates=eclipse
+*.7zx
 
 ### Eclipse ###
 .metadata
